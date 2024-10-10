@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meu site de notícias</title>
-    <link rel="stylesheet" type="text/css" href="./style.css">
+    <link rel="stylesheet" type="text/css" href="./exercicio.css">
 </head>
 <body>
     <header>
@@ -104,7 +104,6 @@
     </p>
     <a href="#"title="Leia a notícia completa">Ler mais</a>
 </article>
-        </header>
     </section>
     <section id="entertainment">
         <div class="container">
@@ -121,6 +120,28 @@
             </p>
             <a href="#"title="Leia a notícia completa">Ler mais</a>
         </article>
+        <article>
+            <img src="./Entretenimento 2.jfif" alt="Jogo de futebol"/>
+            <header>
+                <time>13/07/2022</time>
+            </header>
+            <h3>Jogos ocorrem pelo mundo</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eaque mollitia quaerat earum quisquam libero quos expedita voluptate minima deleniti ratione iure! Optio neque sint fuga deleniti, eius quis officia.
+            </p>
+            <a href="#"title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./Entretenimento 3.jfif" alt="Imagem de um celular"/>
+            <header>
+                <time>13/07/2022</time>
+            </header>
+            <h3>Celulares como entretenimento</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eaque mollitia quaerat earum quisquam libero quos expedita voluptate minima deleniti ratione iure! Optio neque sint fuga deleniti, eius quis officia.
+            </p>
+            <a href="#"title="Leia a notícia completa">Ler mais</a>
+        </article>
     </section>
     <section id="tecnology">
         <div class="container">
@@ -132,6 +153,28 @@
                 <time>13/07/2022</time>
             </header>
             <h3>Tecnologia sofre um avanço expressivo nos últimos anos</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eaque mollitia quaerat earum quisquam libero quos expedita voluptate minima deleniti ratione iure! Optio neque sint fuga deleniti, eius quis officia.
+            </p>
+            <a href="#"title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./Tecnologia 2.jfif" alt="Imagem de um robô"/>
+            <header>
+                <time>13/07/2022</time>
+            </header>
+            <h3>Avanço da intenligência artificial</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eaque mollitia quaerat earum quisquam libero quos expedita voluptate minima deleniti ratione iure! Optio neque sint fuga deleniti, eius quis officia.
+            </p>
+            <a href="#"title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./Tecnologia 3.jfif" alt="Imagem de uma espaçonave"/>
+            <header>
+                <time>13/07/2022</time>
+            </header>
+            <h3>Com avanço da tecnologia, explorar foras das fronteiras do universo não está longe</h3>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse, eaque mollitia quaerat earum quisquam libero quos expedita voluptate minima deleniti ratione iure! Optio neque sint fuga deleniti, eius quis officia.
             </p>

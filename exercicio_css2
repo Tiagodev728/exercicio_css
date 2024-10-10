@@ -6,7 +6,7 @@
 
 body > header {
     background-color: #2f3640;
-    padding: 16px 0;
+    padding: 25px 0;
     color: #f5f6fa;
 }
 
@@ -49,13 +49,16 @@ header li a {
 }
 
 section {
-    padding: 16px 0;
+    padding: 75px 0;
 }
 
-section h2,
-.articles article {
-    margin-bottom: 16px;
+section h2{
+width: 5px;
+height: 25px;
+margin-top: -50px;
+margin-left: -10;
 }
+
 .articles article h3 {
     margin-top: 8px;
     margin-bottom: 8px;
@@ -102,6 +105,7 @@ section h2 {
 
 #economy{
     background-color: #e9a444;
+    
 }
 
 section{
@@ -111,8 +115,17 @@ section{
 
 #entertainment{
     background-color: #748be6;
+    margin-left: -0px;
+    
+    
 }
 
 #tecnology{
     background-color: #ac916d;
+    margin-left: -0px;
+    
+}
+
+article a{
+    background-color: #748be6;
 }
